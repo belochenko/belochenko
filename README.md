@@ -11,12 +11,15 @@
 <a href="https://leetcode.com/belochenko/">
   <img align="left" alt="Alexey's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://leetcode.com/belochenko/">
-  <img align="left" alt="Alexey's Leetcode" src="https://www.codewars.com/users/belochenko/badges/large" />
+<a>
+  <img align="left" alt="Alexey's Leetcode" src="https://www.codewars.com/users/belochenko/badges/micro" />
 </a>
 <br />
 
+
+<p>
 Hi, I'm Alexey Belochenko, Middle Software Developer and Entrepreneur🚀 from Ukraine. Mentor at ONU, IT2School and AtomSpace. 
+</p>
 <img align="right" alt="GIF" src="https://github.com/belochenko/belochenko/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
@@ -46,11 +49,8 @@ Hi, I'm Alexey Belochenko, Middle Software Developer and Entrepreneur🚀 from U
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=belochenko&show_icons=true&theme=gotham" alt="belochenko" />
-
-</details>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=belochenko&show_icons=true&theme=gradient" alt="belochenko" />
 
 
