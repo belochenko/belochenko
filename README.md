@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Alexey 👋
 
-I specialize in creating software solutions that make a positive impact on people worldwide. With a passion for creating valuable experiences, I strive to deliver innovative solutions that truly make a difference. Now based in Alberta, Canada 🇨🇦
+I specialize in creating software solutions that make a positive impact on people worldwide. With a passion for creating valuable experiences, I strive to deliver innovative solutions that truly make a difference. Now based in the Netherlands 🇳🇱 
 
 Checkout my website for more information about me and my experience: https://belochenko.me/about
 
