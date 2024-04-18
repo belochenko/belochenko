@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Alexey 👋
 
-I specialize in creating software solutions that make a positive impact on people worldwide. With a passion for creating valuable experiences, I strive to deliver innovative solutions that truly make a difference. Now based in the Netherlands 🇳🇱 
+I specialize in creating software solutions that make a positive impact on people worldwide. With a passion for creating valuable experiences, I strive to deliver innovative solutions that truly make a difference. Now based in Spain.
 
 Checkout my website for more information about me and my experience: https://belochenko.me/about
 
@@ -13,6 +13,7 @@ Checkout my website for more information about me and my experience: https://bel
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/belochenko/)
+- [LeetCode](https://leetcode.com/belochenko/)
 - [CodeWars](https://www.codewars.com/users/belochenko)
 - [HackerRank](https://www.hackerrank.com/Belochenko?hr_r=1)
 - [Website](https://belochenko.me/)
